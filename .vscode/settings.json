@@ -1,0 +1,11 @@
+{
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "quickfix.biome": "explicit",
+        "source.organizeImports.biome": "explicit"
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnPaste": true,
+    "prettier.printWidth": 3600,
+    "prettier.tabWidth": 4
+}
